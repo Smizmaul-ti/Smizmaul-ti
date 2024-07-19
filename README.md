@@ -1,11 +1,8 @@
 ## Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
 
 <div align="center">
-  <a href="https://github.com/Smizmaul-ti">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smizmaul-ti&theme=react&date_format=j%20M%5B%20Y%5D"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
 </div>
-
 
 <div style="display: inline_block"><br>
   <!-- <img align="center" alt="Luc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
