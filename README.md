@@ -56,7 +56,4 @@
   <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
-  
-</div>
+
