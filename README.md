@@ -2,12 +2,6 @@
   <h3 style="font-size: 18px;">Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Smizmaul-ti">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smizmaul-ti&theme=react&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</div>
-
 ## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,7 +36,3 @@
 - 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti)
 - ⚡ Curiosidade: Adoro resolver desafios e aprender novas tecnologias.
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
-</div>
