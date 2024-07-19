@@ -9,6 +9,7 @@
 </div>
 
 <br>
+
 <div> 
   <a href="https://www.youtube.com/channel/UC-5SW3ecxlv_D50CwtIjcBg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
@@ -30,6 +31,8 @@
   </a>
 </div>
 
+<br>
+
 ## Ferramentas e Tecnologias
 <div>
   <img align="center" alt="Luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -42,11 +45,15 @@
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
+<br>
+
 ## Sobre mim
 - 🌱 Estou atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
 - 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti)
 - ⚡ Curiosidade: Adoro resolver desafios e aprender novas tecnologias.
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
