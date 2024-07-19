@@ -43,7 +43,7 @@
 
 ## Sobre mim
 - 🌱 Estou atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
-- 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
+- 💬 Estou em transição de carreira da área de Gestão de Tecnologia para Desenvolvimento Web Full Stack.
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti).
 - ⚡ Apaixonado em resolver desafios e aprender novas tecnologias.
 
