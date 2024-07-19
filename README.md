@@ -1,8 +1,7 @@
 ## Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
 <div align="center">
   <a href="https://github.com/Smizmaul-ti">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smizmaul-ti&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smizmaul-ti&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smizmaul-ti&theme=react&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
@@ -40,16 +39,9 @@
 
 ## Ferramentas e Tecnologias
 <div>
-  <img align="center" alt="Visual Studio Code" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
-## Minhas estatísticas no GitHub
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smizmaul-ti&theme=react&date_format=j%20M%5B%20Y%5D"/>
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 ## Sobre mim
