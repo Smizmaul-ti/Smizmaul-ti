@@ -1,4 +1,6 @@
-## Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
+<div align="center">
+  <h3 style="font-size: 18px;">Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
+</div>
 
 <div align="center">
   <a href="https://github.com/Smizmaul-ti">
@@ -6,15 +8,16 @@
   </a>
 </div>
 
-## Principais Linguagens Utilizadas
+## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <!-- <img align="center" alt="Luc-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
-  <!-- <img align="center" alt="Luc-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Luc-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luc-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luc-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="Luc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 ##
@@ -40,19 +43,11 @@
   </a>
 </div>
 
-## Ferramentas e Tecnologias
-<div>
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-</div>
-
 ## Sobre mim
-- 🌱 Estou Atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
+- 🌱 Estou atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
 - 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti)
-- ⚡ Curiosidade: Adoro vencer desafios e aprender novas tecnologias.
+- ⚡ Curiosidade: Adoro resolver desafios e aprender novas tecnologias.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
@@ -60,7 +55,5 @@
 
 ## Outras Estatísticas
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Smizmaul-ti&theme=react-dark"/>
 </div>
