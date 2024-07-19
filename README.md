@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 style="font-size: 12px; white-space: nowrap; margin: 0;">Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
+  <h3 style="font-size: 12px; white-space: nowrap; margin: 0;">Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
 </div>
 
 <br>
