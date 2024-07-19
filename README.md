@@ -2,6 +2,8 @@
   <h3 style="font-size: 14px; white-space: nowrap;">Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
 </div>
