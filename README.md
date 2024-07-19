@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 style="font-size: 12px; white-space: nowrap; margin: 0;">Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
+  <h3 style="font-size: 12px; white-space: nowrap;">Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
 </div>
 
 <br>
@@ -10,7 +10,7 @@
 
 <br>
 
-<div align="center">
+<div> 
   <a href="https://www.youtube.com/channel/UC-5SW3ecxlv_D50CwtIjcBg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
@@ -28,7 +28,7 @@
 <br>
 
 ## Ferramentas e Tecnologias
-<div align="center">
+<div>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -42,14 +42,10 @@
 <br>
 
 ## Sobre mim
-<div align="center">
-  <p style="font-size: 12px; margin: 0;">
-    - 🌱 Estou atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês.<br>
-    - 💬 Estou procurando oportunidades de estágio na área de desenvolvimento.<br>
-    - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti).<br>
-    - ⚡ Apaixonado em resolver desafios e aprender novas tecnologias.
-  </p>
-</div>
+- 🌱 Estou atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
+- 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
+- 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti).
+- ⚡ Apaixonado em resolver desafios e aprender novas tecnologias.
 
 <br>
 
