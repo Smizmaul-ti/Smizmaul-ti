@@ -1,4 +1,4 @@
-## Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
+ ## Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
@@ -8,8 +8,7 @@
   <!-- <img align="center" alt="Luc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
 </div>
 
-##
-
+<br>
 <div> 
   <a href="https://www.youtube.com/channel/UC-5SW3ecxlv_D50CwtIjcBg" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
