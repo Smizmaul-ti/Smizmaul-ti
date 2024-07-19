@@ -26,7 +26,6 @@
 </div>
 
 <br>
-
 <h3 style="font-size: 16px; text-align: center;">Ferramentas e Tecnologias</h3>
 <div style="text-align: center;">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
