@@ -24,22 +24,16 @@
 
 <div> 
   <a href="https://www.youtube.com/channel/UC-5SW3ecxlv_D50CwtIjcBg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img align="center" alt="YouTube" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg">
   </a>
   <a href="https://instagram.com/smizmaul.ti" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img align="center" alt="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg">
   </a>
-  <!-- <a href="https://www.twitch.tv/Chapaplaay" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a> -->
-  <!-- <a href="https://discord.gg/qHMxX7UxSb" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> -->
   <a href="mailto:smizmaul.solucoes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img align="center" alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg">
   </a>
   <a href="https://www.linkedin.com/in/lucassmizmaul" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
 
@@ -49,11 +43,6 @@
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti)
 - ⚡ Curiosidade: Adoro resolver desafios e aprender novas tecnologias.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
-</div>
-
-## Outras Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
 </div>
