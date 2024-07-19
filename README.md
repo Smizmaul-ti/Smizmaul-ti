@@ -2,6 +2,12 @@
   <h3 style="font-size: 18px;">Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!</h3>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Smizmaul-ti">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Smizmaul-ti&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 ## Ferramentas e Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -9,24 +15,23 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-## Contatos
-<div style="display: inline_block"><br>
+<div> 
   <a href="https://www.youtube.com/channel/UC-5SW3ecxlv_D50CwtIjcBg" target="_blank">
-    <img align="center" alt="YouTube" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png">
+    <img align="center" alt="YouTube" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/youtube/youtube-original.svg">
   </a>
   <a href="https://instagram.com/smizmaul.ti" target="_blank">
-    <img align="center" alt="Instagram" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+    <img align="center" alt="Instagram" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg">
   </a>
   <a href="mailto:smizmaul.solucoes@gmail.com" target="_blank">
-    <img align="center" alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/42/Gmail_Icon.png">
+    <img align="center" alt="Gmail" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original.svg">
   </a>
   <a href="https://www.linkedin.com/in/lucassmizmaul" target="_blank">
-    <img align="center" alt="LinkedIn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
+    <img align="center" alt="LinkedIn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
 </div>
 
