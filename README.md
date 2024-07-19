@@ -58,7 +58,6 @@
   <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
 </div>
 
-## Outras Estatísticas
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
