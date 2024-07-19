@@ -61,5 +61,5 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Smizmaul-ti&theme=react-dark"/>
+ 
 </div>
