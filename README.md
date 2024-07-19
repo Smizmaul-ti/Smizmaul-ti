@@ -1,9 +1,12 @@
-## Meu nome é Lucas Smizmaul, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
+## Meu nome é Lucas, Sou desenvolvedor Front-End e estudante de desenvolvimento Full-Stack!
+
 <div align="center">
   <a href="https://github.com/Smizmaul-ti">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Smizmaul-ti&theme=react&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </div>
+
+## Principais Linguagens Utilizadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Luc-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Luc-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
@@ -40,18 +43,24 @@
 ## Ferramentas e Tecnologias
 <div>
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
 ## Sobre mim
-- 🌱 Atualmente estou aprendendo desenvolvimento Full-Stack.
-- 👯 Estou procurando colaborar em projetos de código aberto.
-- 🤔 Estou procurando ajuda com algoritmos avançados.
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS, Python.
+- 🌱 Estou Atualmente focado no desenvolvimento Full-Stack e fluência no idioma inglês. 
+- 💬 Estou procurando oportunidades de estágio na área de desenvolvimento. 
 - 📫 Como me encontrar: [Email](mailto:smizmaul.solucoes@gmail.com), [LinkedIn](https://www.linkedin.com/in/lucassmizmaul), [Instagram](https://instagram.com/smizmaul.ti)
-- ⚡ Curiosidade: Adoro resolver desafios de lógica e aprender novas tecnologias.
+- ⚡ Curiosidade: Adoro vencer desafios e aprender novas tecnologias.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Smizmaul-ti&color=green" alt="Smizmaul-ti" />
+</div>
+
+## Outras Estatísticas
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Smizmaul-ti&theme=vue"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Smizmaul-ti&layout=compact&theme=react" alt="Smizmaul-ti wakatime stats"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Smizmaul-ti&theme=react-dark"/>
 </div>
