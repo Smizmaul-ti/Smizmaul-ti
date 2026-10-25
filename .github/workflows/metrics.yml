@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: Smizmaul-ti
           template: classic
-          base: header
+          base: ""
           config_timezone: America/Sao_Paulo
           
           # Calendario Isometrico 3D
