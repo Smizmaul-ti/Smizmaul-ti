@@ -1,13 +1,13 @@
-<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <linearGradient id="bg_grad" x1="0" y1="0" x2="850" y2="260" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0E1015"/>
-      <stop offset="0.6" stop-color="#14171F"/>
-      <stop offset="1" stop-color="#181C26"/>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="850" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0D12"/>
+      <stop offset="0.5" stop-color="#12151D"/>
+      <stop offset="1" stop-color="#171A24"/>
     </linearGradient>
     <linearGradient id="lime_glow" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#D6F34A"/>
-      <stop offset="100%" stop-color="#9BC31E"/>
+      <stop offset="100%" stop-color="#8DB515"/>
     </linearGradient>
     <linearGradient id="gold_grad" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#FFF0C2"/>
@@ -15,24 +15,24 @@
       <stop offset="100%" stop-color="#B88E50"/>
     </linearGradient>
     <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#222734" stroke-width="0.75" stroke-opacity="0.5"/>
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#222734" stroke-width="0.75" stroke-opacity="0.4"/>
     </pattern>
     <style>
       .mono { font-family: "SF Pro Mono", "Fira Code", "JetBrains Mono", Menlo, Consolas, monospace; }
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
       
-      @keyframes pulse {
-        0%, 100% { opacity: 1; transform: scale(1); }
-        50% { opacity: 0.4; transform: scale(0.9); }
-      }
-      @keyframes wave1 { 0%, 100% { height: 14px; y: 156px; } 50% { height: 48px; y: 122px; } }
-      @keyframes wave2 { 0%, 100% { height: 32px; y: 138px; } 50% { height: 12px; y: 158px; } }
-      @keyframes wave3 { 0%, 100% { height: 56px; y: 114px; } 50% { height: 26px; y: 144px; } }
-      @keyframes wave4 { 0%, 100% { height: 24px; y: 146px; } 50% { height: 60px; y: 110px; } }
-      @keyframes wave5 { 0%, 100% { height: 42px; y: 128px; } 50% { height: 18px; y: 152px; } }
-      @keyframes wave6 { 0%, 100% { height: 16px; y: 154px; } 50% { height: 38px; y: 132px; } }
+      @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.85); } }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      
+      @keyframes wave1 { 0%, 100% { height: 14px; y: 156px; } 50% { height: 52px; y: 118px; } }
+      @keyframes wave2 { 0%, 100% { height: 38px; y: 132px; } 50% { height: 12px; y: 158px; } }
+      @keyframes wave3 { 0%, 100% { height: 60px; y: 110px; } 50% { height: 26px; y: 144px; } }
+      @keyframes wave4 { 0%, 100% { height: 24px; y: 146px; } 50% { height: 64px; y: 106px; } }
+      @keyframes wave5 { 0%, 100% { height: 46px; y: 124px; } 50% { height: 18px; y: 152px; } }
+      @keyframes wave6 { 0%, 100% { height: 16px; y: 154px; } 50% { height: 42px; y: 128px; } }
 
-      .pulse-dot { animation: pulse 2s infinite ease-in-out; transform-origin: 48px 208px; }
+      .pulse-dot { animation: pulse 2s infinite ease-in-out; transform-origin: 48px 233px; }
+      .cursor-blink { animation: blink 0.8s infinite; }
       .bar-1 { animation: wave1 1.2s infinite ease-in-out; }
       .bar-2 { animation: wave2 0.9s infinite ease-in-out; }
       .bar-3 { animation: wave3 1.4s infinite ease-in-out; }
@@ -42,41 +42,96 @@
     </style>
   </defs>
 
-  <!-- Background Card with Border -->
-  <rect width="850" height="260" rx="14" fill="url(#bg_grad)"/>
-  <rect width="850" height="260" rx="14" fill="url(#grid)"/>
-  <rect x="1" y="1" width="848" height="258" rx="13" stroke="#2D3344" stroke-width="1.2"/>
+  <rect width="850" height="280" rx="14" fill="url(#bg_grad)"/>
+  <rect width="850" height="280" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="848" height="278" rx="13" stroke="#2D3344" stroke-width="1.2"/>
 
-  <!-- Top Window Bar -->
+  <!-- Window controls & telemetry chips -->
   <circle cx="32" cy="28" r="4.5" fill="#FF5F56"/>
   <circle cx="48" cy="28" r="4.5" fill="#FFBD2E"/>
   <circle cx="64" cy="28" r="4.5" fill="#27C93F"/>
-  <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.2</text>
+  <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.5</text>
+  <rect x="710" y="18" width="108" height="20" rx="4" fill="#141824" stroke="#2B3242" stroke-width="0.8"/>
+  <text x="722" y="32" fill="#D6F34A" class="mono" font-size="10" font-weight="600">● 1.196 COMMITS</text>
 
-  <!-- Hexagon Brand Accent Background -->
-  <polygon points="760,60 810,90 810,150 760,180 710,150 710,90" fill="none" stroke="#262D3D" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- Hexagon Brand Accent -->
+  <polygon points="760,70 810,100 810,160 760,190 710,160 710,100" fill="none" stroke="#262D3D" stroke-width="1.5" stroke-dasharray="4 3"/>
 
-  <!-- Main Identity Header -->
-  <text x="32" y="82" fill="#FFFFFF" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
-  <text x="32" y="112" fill="#D6F34A" class="mono" font-size="14" font-weight="600">&gt; Full Stack Developer (Jr) • Systems Reliability &amp; AI</text>
+  <!-- Identity Title -->
+  <text x="32" y="80" fill="#FFFFFF" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
 
-  <!-- Value Narrative -->
-  <text x="32" y="142" fill="#9BA3B5" class="sans" font-size="13">
-    10+ anos de solidez em suporte, infraestrutura e estabilidade de sistemas em produção.
+  <!-- Animated Typing Text Lines (SMIL loop: 4 lines, 4s each = 16s total) -->
+  <path id="type_path_0">
+    <animate id="anim0" attributeName="d" begin="0s;anim3.end" dur="4s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.4;0.85;1" />
+  </path>
+  <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_0">&gt; Full Stack Developer (Jr) • React &amp; TypeScript</textPath>
   </text>
-  <text x="32" y="162" fill="#757F94" class="sans" font-size="13">
-    Construindo software resiliente com TypeScript, React, Next.js, Python e IA aplicada.
+
+  <path id="type_path_1">
+    <animate id="anim1" attributeName="d" begin="anim0.end" dur="4s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.4;0.85;1" />
+  </path>
+  <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_1">&gt; 10+ Anos de Sustentação de Sistemas &amp; Redes</textPath>
   </text>
+
+  <path id="type_path_2">
+    <animate id="anim2" attributeName="d" begin="anim1.end" dur="4s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.4;0.85;1" />
+  </path>
+  <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_2">&gt; Pipelines em Python • Whisper, Demucs &amp; Gemini</textPath>
+  </text>
+
+  <path id="type_path_3">
+    <animate id="anim3" attributeName="d" begin="anim2.end" dur="4s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.4;0.85;1" />
+  </path>
+  <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_3">&gt; Troubleshooting em Produção &amp; Resolução RCA</textPath>
+  </text>
+
+  <!-- Narrative Context -->
+  <text x="32" y="146" fill="#9BA3B5" class="sans" font-size="13">
+    10+ anos de experiência real em sustentação de sistemas, infraestrutura, VoIP/SIP e troubleshooting crítico.
+  </text>
+  <text x="32" y="168" fill="#757F94" class="sans" font-size="13">
+    Desenvolvendo soluções full stack resilientes: ShortDub (IA &amp; DSP), Leads MVP (B2B) e CloudOps Hub.
+  </text>
+
+  <!-- Mini Pipeline Chips -->
+  <g transform="translate(32, 186)">
+    <rect x="0" y="0" width="76" height="20" rx="4" fill="#181D28" stroke="#2B3242" stroke-width="0.8"/>
+    <text x="10" y="14" fill="#D6F34A" class="mono" font-size="10">Python</text>
+    
+    <rect x="84" y="0" width="94" height="20" rx="4" fill="#181D28" stroke="#2B3242" stroke-width="0.8"/>
+    <text x="94" y="14" fill="#61DAFB" class="mono" font-size="10">TypeScript</text>
+
+    <rect x="186" y="0" width="70" height="20" rx="4" fill="#181D28" stroke="#2B3242" stroke-width="0.8"/>
+    <text x="196" y="14" fill="#4169E1" class="mono" font-size="10">Postgres</text>
+
+    <rect x="264" y="0" width="90" height="20" rx="4" fill="#181D28" stroke="#2B3242" stroke-width="0.8"/>
+    <text x="274" y="14" fill="#F38020" class="mono" font-size="10">Cloudflare</text>
+
+    <rect x="362" y="0" width="112" height="20" rx="4" fill="#181D28" stroke="#2B3242" stroke-width="0.8"/>
+    <text x="372" y="14" fill="#FF5F56" class="mono" font-size="10">Troubleshooting</text>
+  </g>
 
   <!-- Operational Status Bar -->
-  <rect x="32" y="194" width="480" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
-  <circle cx="48" cy="209" r="4" fill="#D6F34A" class="pulse-dot"/>
-  <text x="62" y="213" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: PRONTO PARA PRODUÇÃO</text>
-  <text x="260" y="213" fill="#5E687E" class="mono" font-size="10.5">|</text>
-  <text x="274" y="213" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto</text>
+  <rect x="32" y="218" width="530" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
+  <circle cx="48" cy="233" r="4" fill="#D6F34A" class="pulse-dot"/>
+  <text x="62" y="237" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: PRONTO PARA PRODUÇÃO</text>
+  <text x="260" y="237" fill="#5E687E" class="mono" font-size="10.5">|</text>
+  <text x="274" y="237" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto (Suporte N2/N3 ou Dev Jr)</text>
 
-  <!-- Equalizer (Audio/Signal Telemetry nodding to ShortDub) -->
-  <g transform="translate(620, 20)">
+  <!-- Audio Equalizer (ShortDub Reference) -->
+  <g transform="translate(620, 30)">
     <text x="0" y="82" fill="#5E687E" class="mono" font-size="10" letter-spacing="1">AUDIO / DSP SIGNAL</text>
     <rect class="bar-1" x="0" y="146" width="6" height="24" rx="3" fill="url(#lime_glow)"/>
     <rect class="bar-2" x="12" y="138" width="6" height="32" rx="3" fill="url(#lime_glow)"/>
@@ -87,7 +142,6 @@
     <rect class="bar-2" x="72" y="140" width="6" height="30" rx="3" fill="url(#lime_glow)"/>
     <rect class="bar-4" x="84" y="120" width="6" height="50" rx="3" fill="url(#gold_grad)"/>
     <rect class="bar-1" x="96" y="148" width="6" height="22" rx="3" fill="url(#lime_glow)"/>
-    
     <text x="0" y="184" fill="#6B758A" class="mono" font-size="9.5">ShortDub • 48kHz Stems</text>
   </g>
 </svg>

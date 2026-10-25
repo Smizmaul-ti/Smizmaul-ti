@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Camada 1: Hero SVG Animado Exclusivo -->
-<img src="./hero_banner.svg" alt="Lucas Smizmaul Hero" width="100%" />
+<!-- Camada 1: Hero SVG Animado com Maquina de Escrever Dinamica -->
+<img src="./hero_banner.svg" alt="Lucas Smizmaul Cockpit" width="100%" />
 
 <br/><br/>
 
@@ -38,11 +38,15 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 ---
 
-### 📊 Telemetria de Engenharia & Atividade Contínua
+### 🐍 Atividade de Código & Cobrinha Neon
 
 <div align="center">
 
-<!-- Camada 4: Dashboard lowlighter/metrics gerado via GitHub Actions -->
+<img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+<br/><br/>
+
+<!-- Telemetria Isometrica 3D via lowlighter/metrics -->
 <img src="./github-metrics.svg" alt="Engineering Metrics & Telemetry" width="100%" />
 
 </div>
