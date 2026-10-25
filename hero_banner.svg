@@ -124,7 +124,7 @@
   </g>
 
   <!-- Operational Status Bar (Adjusted width=356 for perfect right padding) -->
-  <rect x="32" y="218" width="356" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
+  <rect x="32" y="218" width="390" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
   <circle cx="48" cy="233" r="4.5" fill="#D6F34A" class="pulse-dot"/>
   <text x="62" y="237" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: DISPONÍVEL</text>
   <text x="195" y="237" fill="#5E687E" class="mono" font-size="10.5">|</text>
