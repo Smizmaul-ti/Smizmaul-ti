@@ -1,0 +1,93 @@
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg_grad" x1="0" y1="0" x2="850" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0E1015"/>
+      <stop offset="0.6" stop-color="#14171F"/>
+      <stop offset="1" stop-color="#181C26"/>
+    </linearGradient>
+    <linearGradient id="lime_glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#D6F34A"/>
+      <stop offset="100%" stop-color="#9BC31E"/>
+    </linearGradient>
+    <linearGradient id="gold_grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF0C2"/>
+      <stop offset="50%" stop-color="#D6B770"/>
+      <stop offset="100%" stop-color="#B88E50"/>
+    </linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#222734" stroke-width="0.75" stroke-opacity="0.5"/>
+    </pattern>
+    <style>
+      .mono { font-family: "SF Pro Mono", "Fira Code", "JetBrains Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.4; transform: scale(0.9); }
+      }
+      @keyframes wave1 { 0%, 100% { height: 14px; y: 156px; } 50% { height: 48px; y: 122px; } }
+      @keyframes wave2 { 0%, 100% { height: 32px; y: 138px; } 50% { height: 12px; y: 158px; } }
+      @keyframes wave3 { 0%, 100% { height: 56px; y: 114px; } 50% { height: 26px; y: 144px; } }
+      @keyframes wave4 { 0%, 100% { height: 24px; y: 146px; } 50% { height: 60px; y: 110px; } }
+      @keyframes wave5 { 0%, 100% { height: 42px; y: 128px; } 50% { height: 18px; y: 152px; } }
+      @keyframes wave6 { 0%, 100% { height: 16px; y: 154px; } 50% { height: 38px; y: 132px; } }
+
+      .pulse-dot { animation: pulse 2s infinite ease-in-out; transform-origin: 48px 208px; }
+      .bar-1 { animation: wave1 1.2s infinite ease-in-out; }
+      .bar-2 { animation: wave2 0.9s infinite ease-in-out; }
+      .bar-3 { animation: wave3 1.4s infinite ease-in-out; }
+      .bar-4 { animation: wave4 1.1s infinite ease-in-out; }
+      .bar-5 { animation: wave5 1.3s infinite ease-in-out; }
+      .bar-6 { animation: wave6 0.8s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <!-- Background Card with Border -->
+  <rect width="850" height="260" rx="14" fill="url(#bg_grad)"/>
+  <rect width="850" height="260" rx="14" fill="url(#grid)"/>
+  <rect x="1" y="1" width="848" height="258" rx="13" stroke="#2D3344" stroke-width="1.2"/>
+
+  <!-- Top Window Bar -->
+  <circle cx="32" cy="28" r="4.5" fill="#FF5F56"/>
+  <circle cx="48" cy="28" r="4.5" fill="#FFBD2E"/>
+  <circle cx="64" cy="28" r="4.5" fill="#27C93F"/>
+  <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.2</text>
+
+  <!-- Hexagon Brand Accent Background -->
+  <polygon points="760,60 810,90 810,150 760,180 710,150 710,90" fill="none" stroke="#262D3D" stroke-width="1.5" stroke-dasharray="4 3"/>
+
+  <!-- Main Identity Header -->
+  <text x="32" y="82" fill="#FFFFFF" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
+  <text x="32" y="112" fill="#D6F34A" class="mono" font-size="14" font-weight="600">&gt; Full Stack Developer (Jr) • Systems Reliability &amp; AI</text>
+
+  <!-- Value Narrative -->
+  <text x="32" y="142" fill="#9BA3B5" class="sans" font-size="13">
+    10+ anos de solidez em suporte, infraestrutura e estabilidade de sistemas em produção.
+  </text>
+  <text x="32" y="162" fill="#757F94" class="sans" font-size="13">
+    Construindo software resiliente com TypeScript, React, Next.js, Python e IA aplicada.
+  </text>
+
+  <!-- Operational Status Bar -->
+  <rect x="32" y="194" width="480" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
+  <circle cx="48" cy="209" r="4" fill="#D6F34A" class="pulse-dot"/>
+  <text x="62" y="213" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: PRONTO PARA PRODUÇÃO</text>
+  <text x="260" y="213" fill="#5E687E" class="mono" font-size="10.5">|</text>
+  <text x="274" y="213" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto</text>
+
+  <!-- Equalizer (Audio/Signal Telemetry nodding to ShortDub) -->
+  <g transform="translate(620, 20)">
+    <text x="0" y="82" fill="#5E687E" class="mono" font-size="10" letter-spacing="1">AUDIO / DSP SIGNAL</text>
+    <rect class="bar-1" x="0" y="146" width="6" height="24" rx="3" fill="url(#lime_glow)"/>
+    <rect class="bar-2" x="12" y="138" width="6" height="32" rx="3" fill="url(#lime_glow)"/>
+    <rect class="bar-3" x="24" y="114" width="6" height="56" rx="3" fill="url(#gold_grad)"/>
+    <rect class="bar-4" x="36" y="126" width="6" height="44" rx="3" fill="url(#gold_grad)"/>
+    <rect class="bar-5" x="48" y="132" width="6" height="38" rx="3" fill="url(#lime_glow)"/>
+    <rect class="bar-6" x="60" y="152" width="6" height="18" rx="3" fill="url(#lime_glow)"/>
+    <rect class="bar-2" x="72" y="140" width="6" height="30" rx="3" fill="url(#lime_glow)"/>
+    <rect class="bar-4" x="84" y="120" width="6" height="50" rx="3" fill="url(#gold_grad)"/>
+    <rect class="bar-1" x="96" y="148" width="6" height="22" rx="3" fill="url(#lime_glow)"/>
+    
+    <text x="0" y="184" fill="#6B758A" class="mono" font-size="9.5">ShortDub • 48kHz Stems</text>
+  </g>
+</svg>
