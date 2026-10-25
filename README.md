@@ -32,6 +32,7 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 ### 🚀 Repositórios em Destaque
 
+* 🤖 **[Systems & Solutions Specialist (SupportKit)](https://github.com/Smizmaul-ti/systems-solutions-specialist-v1):** Ambiente portátil e especializado para sustentação de sistemas corporativos, suporte N1/N2/N3, troubleshooting, análise RCA, redes, ITSM e ferramentas de diagnóstico via CLI (`supportkit`).
 * 🎙️ **[ShortDub](https://github.com/Smizmaul-ti/ShortDub):** Aplicação Full Stack em Python e JavaScript para download de vídeos, transcrição automática e dublagem sincronizada com IA (Whisper, Demucs v4, Gemini, Edge TTS e FFmpeg).
 * 🎯 **[Leads MVP](https://github.com/Smizmaul-ti/Leads-MVP):** Sistema Full Stack para descoberta, enriquecimento e qualificação automatizada de empresas B2B (Python, TypeScript e Cloudflare D1/Edge).
 * 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub):** Aplicação para governança operacional, gestão de incidentes e sustentação de TI.
@@ -43,10 +44,5 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 <div align="center">
 
 <img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-
-<br/><br/>
-
-<!-- Telemetria Isometrica 3D via lowlighter/metrics -->
-<img src="./github-metrics.svg" alt="Engineering Metrics & Telemetry" width="100%" />
 
 </div>

@@ -50,59 +50,59 @@
   <circle cx="32" cy="28" r="4.5" fill="#FF5F56"/>
   <circle cx="48" cy="28" r="4.5" fill="#FFBD2E"/>
   <circle cx="64" cy="28" r="4.5" fill="#27C93F"/>
-  <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: engineering lab v4.5</text>
+  <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.5</text>
   <rect x="710" y="18" width="108" height="20" rx="4" fill="#141824" stroke="#2B3242" stroke-width="0.8"/>
   <text x="722" y="32" fill="#D6F34A" class="mono" font-size="10" font-weight="600">● 1.196 COMMITS</text>
 
   <!-- Hexagon Brand Accent -->
   <polygon points="765,70 815,100 815,160 765,190 715,160 715,100" fill="none" stroke="#262D3D" stroke-width="1.5" stroke-dasharray="4 3"/>
 
-  <!-- Console Header (Replaces redundant personal name) -->
-  <text x="32" y="80" fill="#FFFFFF" class="sans" font-size="24" font-weight="700" letter-spacing="-0.3">Smizmaul TI // Engenharia de Software</text>
+  <!-- Identity Title (Lucas Smizmaul) -->
+  <text x="32" y="80" fill="#FFFFFF" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
 
-  <!-- Animated Typing Text Lines (SMIL loop) -->
+  <!-- Animated Typing Text Lines (SMIL loop: 5s per line, smooth reading time) -->
   <path id="type_path_0">
-    <animate id="anim0" attributeName="d" begin="0s;anim3.end" dur="4s" fill="freeze"
+    <animate id="anim0" attributeName="d" begin="0s;anim3.end" dur="5s" fill="freeze"
       values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
-      keyTimes="0;0.4;0.85;1" />
+      keyTimes="0;0.35;0.88;1" />
   </path>
   <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
     <textPath xlink:href="#type_path_0">&gt; Full Stack Developer (Jr) • React &amp; TypeScript</textPath>
   </text>
 
   <path id="type_path_1">
-    <animate id="anim1" attributeName="d" begin="anim0.end" dur="4s" fill="freeze"
+    <animate id="anim1" attributeName="d" begin="anim0.end" dur="5s" fill="freeze"
       values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
-      keyTimes="0;0.4;0.85;1" />
+      keyTimes="0;0.35;0.88;1" />
   </path>
   <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
     <textPath xlink:href="#type_path_1">&gt; 10+ Anos de Sustentação de Sistemas &amp; Redes</textPath>
   </text>
 
   <path id="type_path_2">
-    <animate id="anim2" attributeName="d" begin="anim1.end" dur="4s" fill="freeze"
+    <animate id="anim2" attributeName="d" begin="anim1.end" dur="5s" fill="freeze"
       values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
-      keyTimes="0;0.4;0.85;1" />
+      keyTimes="0;0.35;0.88;1" />
   </path>
   <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
     <textPath xlink:href="#type_path_2">&gt; Pipelines em Python • Whisper, Demucs &amp; Gemini</textPath>
   </text>
 
   <path id="type_path_3">
-    <animate id="anim3" attributeName="d" begin="anim2.end" dur="4s" fill="freeze"
+    <animate id="anim3" attributeName="d" begin="anim2.end" dur="5s" fill="freeze"
       values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
-      keyTimes="0;0.4;0.85;1" />
+      keyTimes="0;0.35;0.88;1" />
   </path>
   <text class="mono" fill="#D6F34A" font-size="14.5" font-weight="600">
     <textPath xlink:href="#type_path_3">&gt; Troubleshooting em Produção &amp; Resolução RCA</textPath>
   </text>
 
-  <!-- Narrative Context (Calibrated so it never collides with audio bars) -->
+  <!-- Narrative Context -->
   <text x="32" y="146" fill="#9BA3B5" class="sans" font-size="13">
-    10+ anos de experiência real em sustentação de sistemas, infraestrutura e VoIP/SIP.
+    10+ anos de experiência real em sustentação de sistemas, infraestrutura, VoIP/SIP e troubleshooting crítico.
   </text>
   <text x="32" y="168" fill="#757F94" class="sans" font-size="13">
-    Projetos Full Stack em produção: ShortDub (IA &amp; DSP), Leads MVP e CloudOps Hub.
+    Desenvolvendo soluções full stack e agentes: ShortDub, SupportKit, Leads MVP e CloudOps.
   </text>
 
   <!-- Mini Pipeline Chips -->
@@ -123,14 +123,14 @@
     <text x="368" y="14" fill="#FF5F56" class="mono" font-size="10">Troubleshooting</text>
   </g>
 
-  <!-- Operational Status Bar -->
+  <!-- Operational Status Bar (Corrected with DISPONÍVEL) -->
   <rect x="32" y="218" width="530" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
-  <circle cx="48" cy="233" r="4" fill="#D6F34A" class="pulse-dot"/>
-  <text x="62" y="237" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: PRONTO PARA PRODUÇÃO</text>
-  <text x="260" y="237" fill="#5E687E" class="mono" font-size="10.5">|</text>
-  <text x="274" y="237" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto (Suporte N2/N3 ou Dev Jr)</text>
+  <circle cx="48" cy="233" r="4.5" fill="#D6F34A" class="pulse-dot"/>
+  <text x="62" y="237" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: DISPONÍVEL</text>
+  <text x="195" y="237" fill="#5E687E" class="mono" font-size="10.5">|</text>
+  <text x="208" y="237" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto (Suporte N2/N3 ou Dev Jr)</text>
 
-  <!-- Audio Equalizer (Shifted right to x=680 to completely prevent text collision) -->
+  <!-- Audio Equalizer (ShortDub Reference) -->
   <g transform="translate(680, 30)">
     <text x="0" y="82" fill="#5E687E" class="mono" font-size="10" letter-spacing="1">AUDIO / DSP SIGNAL</text>
     <rect class="bar-1" x="0" y="146" width="6" height="24" rx="3" fill="url(#lime_glow)"/>
