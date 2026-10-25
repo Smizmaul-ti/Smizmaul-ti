@@ -60,7 +60,7 @@
   <!-- Identity Title (Lucas Smizmaul) -->
   <text x="32" y="80" fill="#FFFFFF" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
 
-  <!-- Animated Typing Text Lines (SMIL loop: 5s per line, smooth reading time) -->
+  <!-- Animated Typing Text Lines (SMIL loop: 5s per line) -->
   <path id="type_path_0">
     <animate id="anim0" attributeName="d" begin="0s;anim3.end" dur="5s" fill="freeze"
       values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
@@ -123,12 +123,12 @@
     <text x="368" y="14" fill="#FF5F56" class="mono" font-size="10">Troubleshooting</text>
   </g>
 
-  <!-- Operational Status Bar (Corrected with DISPONÍVEL) -->
-  <rect x="32" y="218" width="530" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
+  <!-- Operational Status Bar (Ends at Remoto) -->
+  <rect x="32" y="218" width="420" height="30" rx="6" fill="#141822" stroke="#2B3242" stroke-width="1"/>
   <circle cx="48" cy="233" r="4.5" fill="#D6F34A" class="pulse-dot"/>
   <text x="62" y="237" fill="#D6F34A" class="mono" font-size="10.5" font-weight="600">STATUS: DISPONÍVEL</text>
   <text x="195" y="237" fill="#5E687E" class="mono" font-size="10.5">|</text>
-  <text x="208" y="237" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto (Suporte N2/N3 ou Dev Jr)</text>
+  <text x="208" y="237" fill="#A8B2C7" class="mono" font-size="10.5">Presencial • Híbrido • Remoto</text>
 
   <!-- Audio Equalizer (ShortDub Reference) -->
   <g transform="translate(680, 30)">

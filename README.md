@@ -32,17 +32,38 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 ### 🚀 Repositórios em Destaque
 
-* 🤖 **[Systems & Solutions Specialist (SupportKit)](https://github.com/Smizmaul-ti/systems-solutions-specialist-v1):** Ambiente portátil e especializado para sustentação de sistemas corporativos, suporte N1/N2/N3, troubleshooting, análise RCA, redes, ITSM e ferramentas de diagnóstico via CLI (`supportkit`).
-* 🎙️ **[ShortDub](https://github.com/Smizmaul-ti/ShortDub):** Aplicação Full Stack em Python e JavaScript para download de vídeos, transcrição automática e dublagem sincronizada com IA (Whisper, Demucs v4, Gemini, Edge TTS e FFmpeg).
-* 🎯 **[Leads MVP](https://github.com/Smizmaul-ti/Leads-MVP):** Sistema Full Stack para descoberta, enriquecimento e qualificação automatizada de empresas B2B (Python, TypeScript e Cloudflare D1/Edge).
-* 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub):** Aplicação para governança operacional, gestão de incidentes e sustentação de TI.
+* 🤖 **[Systems & Solutions Specialist (SupportKit)](https://github.com/Smizmaul-ti/systems-solutions-specialist-v1)**  
+  *Ambiente portátil e CLI para sustentação corporativa, suporte N1/N2/N3, troubleshooting crítico e automação operacional.*  
+  **Stack & Engenharia:** `Python` • `CLI Tooling (supportkit)` • `Análise RCA & ITSM` • `Redes, VoIP/SIP & Linux` • `Runbooks Automatizados`  
+  **Impacto:** Padroniza rotinas de diagnóstico de infraestrutura, investigação de incidentes em produção e execução de runbooks técnicos sem dependência de plataformas proprietárias.
+
+* 🎙️ **[ShortDub](https://github.com/Smizmaul-ti/ShortDub)**  
+  *Aplicação Full Stack para download de vídeos, transcrição automática e dublagem sincronizada multi-idioma com IA.*  
+  **Stack & Engenharia:** `Python` • `TypeScript / Web Audio` • `Whisper ASR` • `Demucs v4 (Stems DSP)` • `Gemini LLM` • `FFmpeg`  
+  **Impacto:** Pipeline autônomo para vídeos curtos (Shorts, Reels, TikTok) com isolamento da trilha sonora original, adaptação temporal isocrônica sem pitch drift e estúdio web dual-track.
+
+* 🎯 **[Leads MVP](https://github.com/Smizmaul-ti/Leads-MVP)**  
+  *Sistema Full Stack de inteligência de mercado B2B para descoberta, enriquecimento cadastral e qualificação de empresas.*  
+  **Stack & Engenharia:** `Python` • `TypeScript & React` • `Cloudflare D1 / Workers Edge` • `APIs & Data Grid`  
+  **Impacto:** Substitui a prospecção fria manual por um motor analítico que diferencia ausência de dados de validação negativa, gerando diagnósticos com fontes públicas rastreáveis e exportação CSV.
+
+* 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub)**  
+  *Plataforma para governança operacional, gestão de incidentes de TI e monitoramento de estabilidade.*  
+  **Stack & Engenharia:** `TypeScript` • `Next.js` • `PostgreSQL` • `REST APIs` • `Observabilidade & Métricas`  
+  **Impacto:** Centraliza a resposta a falhas críticas em produção, controle de SLAs de atendimento e fluxos estruturados de RCA (Root Cause Analysis).
 
 ---
 
-### 🐍 Atividade de Código & Cobrinha Neon
+### 📊 Telemetria de Código & Histórico de Produção
 
 <div align="center">
 
+<!-- Cobrinha Neon dos Commits -->
 <img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+
+<br/><br/>
+
+<!-- Dashboard Isometrico 3D sincronizado com os 1.196 commits via METRICS_TOKEN -->
+<img src="./github-metrics.svg" alt="Engineering Metrics & Telemetry" width="100%" />
 
 </div>
