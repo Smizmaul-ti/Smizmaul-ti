@@ -28,9 +28,9 @@
 
 ### 🎯 Sobre Mim
 
-Profissional de tecnologia com **mais de 10 anos de experiência sólida em sustentação de sistemas, infraestrutura corporativa e suporte técnico avançado** (atuação remota internacional, ambientes VoIP/SIP, troubleshooting crítico e análise de causa-raiz em produção).
+Profissional de tecnologia com **mais de 10 anos de experiência sólida em sustentação de sistemas corporativos, infraestrutura de redes e suporte técnico avançado** (atuação remota internacional no mercado norte-americano, ambientes B2B de VoIP/SIP, troubleshooting crítico de produção e análise de causa-raiz - RCA).
 
-Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Stack Júnior e Automações com IA**. Uno a disciplina operacional e a maturidade de quem conhece a rotina de produção à agilidade de desenvolvimento com TypeScript, React, Next.js, Python, bancos relacionais/edge e processamento audiovisual.
+Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Stack e Automações com IA**. Uno a disciplina operacional e a maturidade de quem conhece a rotina de produção à agilidade de desenvolvimento com TypeScript, React, Next.js, Python, bancos relacionais/edge e processamento audiovisual.
 
 ---
 
@@ -53,7 +53,7 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 * 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub)**  
   *Plataforma para governança operacional, gestão de incidentes de TI e monitoramento de estabilidade.*  
-  **Stack & Engenharia:** `TypeScript` • `Next.js` • `PostgreSQL` • `REST APIs` • `Observabilidade & Métricas`  
+  **Stack & Engenharia:** `TypeScript` • `Next.js` • `ASP.NET Core (C#)` • `PostgreSQL` • `REST APIs` • `Docker`  
   **Impacto:** Centraliza a resposta a falhas críticas em produção, controle de SLAs de atendimento e fluxos estruturados de RCA (Root Cause Analysis).
 
 ---
@@ -62,7 +62,7 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 <div align="center">
 
-<!-- Cobrinha dos Commits (Dark & Light) -->
+<!-- Cobrinha dos Commits (Dark & Light) vinculada ao calendário oficial de contribuições -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake-light.svg" />
@@ -71,7 +71,28 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 <br/><br/>
 
-<!-- Dashboard Isometrico 3D sincronizado com os 1.196 commits via METRICS_TOKEN -->
-<img src="./github-metrics.svg" alt="Engineering Metrics & Telemetry" width="100%" />
+<!-- Distribuicao de Linguagens compilada pelo GitHub Linguist (Dark & Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg" />
+  <img alt="GitHub Linguist Metrics" src="./github-metrics-dark.svg" width="60%" />
+</picture>
 
 </div>
+
+> **Metodologia de Aferição:** Coleta automatizada via GitHub Actions utilizando a API do GitHub e o motor oficial [GitHub Linguist](https://github.com/github/linguist). A métrica contabiliza o volume em bytes de código-fonte nas branches padrão dos 33 repositórios analisados da conta.
+
+---
+
+### 🛠️ Ecossistema Tecnológico & Infraestrutura Verificada
+
+*Mapeamento técnico categorizado das ferramentas e práticas efetivamente presentes nos repositórios e na sustentação operacional:*
+
+| Categoria | Tecnologias & Ferramentas Verificadas no Código |
+| :--- | :--- |
+| **Linguagens de Programação** | `Python` • `TypeScript` • `JavaScript` • `C#` • `Shell (Bash/Zsh)` |
+| **Frontend & Interfaces** | `React` • `Next.js` • `Tailwind CSS` • `HTML5 / CSS3` • `Three.js (WebGL)` |
+| **Backend & Edge Computing** | `Cloudflare Workers (V8 Edge)` • `APIs REST` • `Webhooks` • `Server-Sent Events (SSE)` |
+| **Bancos de Dados & Armazenamento** | `Cloudflare D1 (SQLite Edge)` • `PostgreSQL` • `SQLite` |
+| **IA, Áudio & Processamento de Mídia** | `Whisper ASR` • `Demucs v4 (DSP)` • `Edge TTS` • `FFmpeg` • `Gemini API` • `Protocolo MCP` |
+| **Sustentação, Infraestrutura & Redes (10+ Anos)** | `Troubleshooting N1/N2/N3` • `Análise de Causa Raiz (RCA)` • `VoIP/SIP & Cloud PBX` • `Linux (Ubuntu)` • `Docker` • `Jira / Linear` • `Grafana` |
