@@ -60,7 +60,7 @@ Atuo no desenvolvimento de soluções Full Stack e automações com IA (React, N
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg" />
-  <img alt="GitHub Linguist Metrics" src="./github-metrics-dark.svg" width="60%" />
+  <img alt="GitHub Linguist Metrics" src="./github-metrics-dark.svg" width="80%" />
 </picture>
 
 </div>
