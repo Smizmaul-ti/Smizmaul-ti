@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Generate Dark Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Smizmaul-ti
@@ -19,6 +19,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
+          committer_branch: ${{ github.ref_name }}
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -32,7 +33,7 @@ jobs:
             .field svg { fill: #64748B !important; }
 
       - name: Generate Light Metrics
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: Smizmaul-ti
@@ -40,6 +41,7 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
+          committer_branch: ${{ github.ref_name }}
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8

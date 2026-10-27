@@ -51,8 +51,8 @@
   <circle cx="48" cy="28" r="4.5" fill="#FFBD2E"/>
   <circle cx="64" cy="28" r="4.5" fill="#27C93F"/>
   <text x="90" y="32" fill="#70788C" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.5</text>
-  <rect x="682" y="18" width="136" height="20" rx="4" fill="#141824" stroke="#2B3242" stroke-width="0.8"/>
-  <text x="692" y="32" fill="#D6F34A" class="mono" font-size="9.5" font-weight="600">● 33 REPOS ANALISADOS</text>
+  <rect x="676" y="18" width="142" height="20" rx="4" fill="#141824" stroke="#2B3242" stroke-width="0.8"/>
+  <text x="686" y="32" fill="#D6F34A" class="mono" font-size="9" font-weight="600">● TELEMETRIA VERIFICADA</text>
 
   <!-- Hexagon Brand Accent -->
   <polygon points="765,70 815,100 815,160 765,190 715,160 715,100" fill="none" stroke="#262D3D" stroke-width="1.5" stroke-dasharray="4 3"/>
