@@ -68,16 +68,3 @@ Profissional com mais de 10 anos em sustentação de sistemas corporativos, infr
 > • **Histórico de Contribuições:** A animação da cobrinha reflete exclusivamente o calendário público oficial do GitHub. Contribuições em repositórios privados não são expostas sem autorização expressa nas configurações de privacidade do perfil.
 
 ---
-
-### 🛠️ Ecossistema Tecnológico & Infraestrutura Verificada
-
-*Mapeamento técnico categorizado das ferramentas e práticas efetivamente presentes nos repositórios e na rotina operacional:*
-
-| Categoria | Tecnologias & Ferramentas Verificadas no Código |
-| :--- | :--- |
-| **Linguagens de Programação** | `Python` • `TypeScript` • `JavaScript` • `C#` • `Shell (Bash/Zsh)` |
-| **Frontend & Interfaces** | `React` • `Next.js` • `Tailwind CSS` • `HTML5 / CSS3` • `Three.js (WebGL)` |
-| **Backend & Edge Computing** | `Cloudflare Workers (V8 Edge)` • `APIs REST` • `Webhooks` • `Server-Sent Events (SSE)` |
-| **Bancos de Dados & Armazenamento** | `Cloudflare D1 (SQLite Edge)` • `PostgreSQL` • `SQLite` |
-| **IA, Áudio & Processamento de Mídia** | `Whisper ASR` • `Demucs v4 (DSP)` • `Edge TTS` • `FFmpeg` • `Gemini API` • `Protocolo MCP` |
-| **Sustentação, Infraestrutura & Redes (10+ Anos)** | `Troubleshooting N1/N2/N3` • `Análise de Causa Raiz (RCA)` • `VoIP/SIP & Cloud PBX` • `Linux (Ubuntu)` • `Docker` • `Jira / Linear` • `Grafana` |
