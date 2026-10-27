@@ -63,8 +63,4 @@ Profissional com mais de 10 anos em sustentação de sistemas corporativos, infr
 
 </div>
 
-> **Nota Metodológica da Telemetria:**
-> • **Linguagens de Programação:** Aferição automática via GitHub Actions e [GitHub Linguist](https://github.com/github/linguist), calculando a proporção em bytes de código-fonte nas branches padrão dos repositórios da conta.
-> • **Histórico de Contribuições:** A animação da cobrinha reflete exclusivamente o calendário público oficial do GitHub. Contribuições em repositórios privados não são expostas sem autorização expressa nas configurações de privacidade do perfil.
-
 ---
