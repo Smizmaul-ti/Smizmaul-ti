@@ -28,33 +28,16 @@
 
 ### 🎯 Sobre Mim
 
-Profissional de tecnologia com **mais de 10 anos de experiência sólida em sustentação de sistemas, infraestrutura corporativa e suporte técnico avançado** (atuação remota internacional, ambientes VoIP/SIP, troubleshooting crítico e análise de causa-raiz em produção).
-
-Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Stack Júnior e Automações com IA**. Uno a disciplina operacional e a maturidade de quem conhece a rotina de produção à agilidade de desenvolvimento com TypeScript, React, Next.js, Python, bancos relacionais/edge e processamento audiovisual.
+Profissional com mais de 10 anos em sustentação de sistemas corporativos, infraestrutura de redes e suporte N2/N3 (B2B internacional, VoIP/SIP e troubleshooting crítico em produção). Atuo no desenvolvimento de soluções Full Stack e automações com IA (React, Next.js, Python, Cloudflare Edge e processamento audiovisual), combinando estabilidade operacional e arquitetura moderna de software.
 
 ---
 
-### 🚀 Repositórios em Destaque
+### 🚀 Projetos em Destaque
 
-* 🤖 **[Systems & Solutions Specialist (SupportKit)](https://github.com/Smizmaul-ti/systems-solutions-specialist-v1)**  
-  *Ambiente portátil e CLI para sustentação corporativa, suporte N1/N2/N3, troubleshooting crítico e automação operacional.*  
-  **Stack & Engenharia:** `Python` • `CLI Tooling (supportkit)` • `Análise RCA & ITSM` • `Redes, VoIP/SIP & Linux` • `Runbooks Automatizados`  
-  **Impacto:** Padroniza rotinas de diagnóstico de infraestrutura, investigação de incidentes em produção e execução de runbooks técnicos sem dependência de plataformas proprietárias.
-
-* 🎙️ **[ShortDub](https://github.com/Smizmaul-ti/ShortDub)**  
-  *Aplicação Full Stack para download de vídeos, transcrição automática e dublagem sincronizada multi-idioma com IA.*  
-  **Stack & Engenharia:** `Python` • `TypeScript / Web Audio` • `Whisper ASR` • `Demucs v4 (Stems DSP)` • `Gemini LLM` • `FFmpeg`  
-  **Impacto:** Pipeline autônomo para vídeos curtos (Shorts, Reels, TikTok) com isolamento da trilha sonora original, adaptação temporal isocrônica sem pitch drift e estúdio web dual-track.
-
-* 🎯 **[Leads MVP](https://github.com/Smizmaul-ti/Leads-MVP)**  
-  *Sistema Full Stack de inteligência de mercado B2B para descoberta, enriquecimento cadastral e qualificação de empresas.*  
-  **Stack & Engenharia:** `Python` • `TypeScript & React` • `Cloudflare D1 / Workers Edge` • `APIs & Data Grid`  
-  **Impacto:** Substitui a prospecção fria manual por um motor analítico que diferencia ausência de dados de validação negativa, gerando diagnósticos com fontes públicas rastreáveis e exportação CSV.
-
-* 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub)**  
-  *Plataforma para governança operacional, gestão de incidentes de TI e monitoramento de estabilidade.*  
-  **Stack & Engenharia:** `TypeScript` • `Next.js` • `PostgreSQL` • `REST APIs` • `Observabilidade & Métricas`  
-  **Impacto:** Centraliza a resposta a falhas críticas em produção, controle de SLAs de atendimento e fluxos estruturados de RCA (Root Cause Analysis).
+* 🤖 **[SupportKit (Systems Specialist)](https://github.com/Smizmaul-ti/systems-solutions-specialist-v1)** — Suite CLI em Python para padronização de diagnósticos de sistemas, runbooks operacionais, análise de causa-raiz (RCA) e sustentação N1/N2/N3.
+* 🎙️ **[ShortDub](https://github.com/Smizmaul-ti/ShortDub)** — Pipeline Full Stack de áudio/vídeo em Python e Web Audio para download, transcrição (Whisper), tradução contextual e dublagem sincronizada (Demucs v4, Gemini, Edge TTS e FFmpeg).
+* 🎯 **[Leads MVP](https://github.com/Smizmaul-ti/Leads-MVP)** — Aplicação de inteligência comercial B2B em React, TypeScript e Cloudflare D1/Workers para enriquecimento de dados e qualificação com fontes públicas auditáveis.
+* 🛡️ **[CloudOps Hub](https://github.com/Smizmaul-ti/cloudops-ai-hub)** — Plataforma para governança de incidentes e sustentação com Next.js, ASP.NET Core (.NET/C#), PostgreSQL e Docker.
 
 ---
 
@@ -62,7 +45,7 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 <div align="center">
 
-<!-- Cobrinha dos Commits (Dark & Light) -->
+<!-- Cobrinha dos Commits (Dark & Light) vinculada ao calendario oficial de contribuicoes -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake-light.svg" />
@@ -71,7 +54,30 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 <br/><br/>
 
-<!-- Dashboard Isometrico 3D sincronizado com os 1.196 commits via METRICS_TOKEN -->
-<img src="./github-metrics.svg" alt="Engineering Metrics & Telemetry" width="100%" />
+<!-- Distribuicao de Linguagens compilada pelo GitHub Linguist (Dark & Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-metrics-light.svg" />
+  <img alt="GitHub Linguist Metrics" src="./github-metrics-dark.svg" width="60%" />
+</picture>
 
 </div>
+
+> **Nota Metodológica da Telemetria:**
+> • **Linguagens de Programação:** Aferição automática via GitHub Actions e [GitHub Linguist](https://github.com/github/linguist), calculando a proporção em bytes de código-fonte nas branches padrão dos repositórios da conta.
+> • **Histórico de Contribuições:** A animação da cobrinha reflete exclusivamente o calendário público oficial do GitHub. Contribuições em repositórios privados não são expostas sem autorização expressa nas configurações de privacidade do perfil.
+
+---
+
+### 🛠️ Ecossistema Tecnológico & Infraestrutura Verificada
+
+*Mapeamento técnico categorizado das ferramentas e práticas efetivamente presentes nos repositórios e na rotina operacional:*
+
+| Categoria | Tecnologias & Ferramentas Verificadas no Código |
+| :--- | :--- |
+| **Linguagens de Programação** | `Python` • `TypeScript` • `JavaScript` • `C#` • `Shell (Bash/Zsh)` |
+| **Frontend & Interfaces** | `React` • `Next.js` • `Tailwind CSS` • `HTML5 / CSS3` • `Three.js (WebGL)` |
+| **Backend & Edge Computing** | `Cloudflare Workers (V8 Edge)` • `APIs REST` • `Webhooks` • `Server-Sent Events (SSE)` |
+| **Bancos de Dados & Armazenamento** | `Cloudflare D1 (SQLite Edge)` • `PostgreSQL` • `SQLite` |
+| **IA, Áudio & Processamento de Mídia** | `Whisper ASR` • `Demucs v4 (DSP)` • `Edge TTS` • `FFmpeg` • `Gemini API` • `Protocolo MCP` |
+| **Sustentação, Infraestrutura & Redes (10+ Anos)** | `Troubleshooting N1/N2/N3` • `Análise de Causa Raiz (RCA)` • `VoIP/SIP & Cloud PBX` • `Linux (Ubuntu)` • `Docker` • `Jira / Linear` • `Grafana` |
