@@ -1,7 +1,11 @@
 <div align="center">
 
-<!-- Camada 1: Hero SVG Animado com Maquina de Escrever Dinamica -->
-<img src="./hero_banner.svg" alt="Lucas Smizmaul Cockpit" width="100%" />
+<!-- Camada 1: Hero SVG Animado com Maquina de Escrever Dinamica (Dark & Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./hero_banner.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./hero_banner_light.svg" />
+  <img alt="Lucas Smizmaul Cockpit" src="./hero_banner.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
@@ -10,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="mailto:lsmizmaull@gmail.com">
+<a href="mailto:smizmaul.solucoes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
@@ -58,8 +62,12 @@ Em transição ativa e aplicação contínua em **Desenvolvimento Web / Full Sta
 
 <div align="center">
 
-<!-- Cobrinha Neon dos Commits -->
-<img src="./github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+<!-- Cobrinha dos Commits (Dark & Light) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake-light.svg" />
+  <img alt="Snake Animation" src="./github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 <br/><br/>
 

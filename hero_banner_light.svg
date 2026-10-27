@@ -1,0 +1,147 @@
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="bg_grad_light" x1="0" y1="0" x2="850" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="0.5" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#F1F5F9"/>
+    </linearGradient>
+    <linearGradient id="emerald_glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="amber_grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FCD34D"/>
+      <stop offset="50%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#D97706"/>
+    </linearGradient>
+    <pattern id="grid_light" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#CBD5E1" stroke-width="0.75" stroke-opacity="0.5"/>
+    </pattern>
+    <style>
+      .mono { font-family: "SF Pro Mono", "Fira Code", "JetBrains Mono", Menlo, Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+      
+      @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.85); } }
+      @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+      
+      @keyframes wave1 { 0%, 100% { height: 14px; y: 156px; } 50% { height: 50px; y: 120px; } }
+      @keyframes wave2 { 0%, 100% { height: 36px; y: 134px; } 50% { height: 12px; y: 158px; } }
+      @keyframes wave3 { 0%, 100% { height: 58px; y: 112px; } 50% { height: 26px; y: 144px; } }
+      @keyframes wave4 { 0%, 100% { height: 24px; y: 146px; } 50% { height: 60px; y: 110px; } }
+      @keyframes wave5 { 0%, 100% { height: 44px; y: 126px; } 50% { height: 18px; y: 152px; } }
+      @keyframes wave6 { 0%, 100% { height: 16px; y: 154px; } 50% { height: 38px; y: 132px; } }
+
+      .pulse-dot { animation: pulse 2s infinite ease-in-out; transform-origin: 48px 233px; }
+      .cursor-blink { animation: blink 0.8s infinite; }
+      .bar-1 { animation: wave1 1.2s infinite ease-in-out; }
+      .bar-2 { animation: wave2 0.9s infinite ease-in-out; }
+      .bar-3 { animation: wave3 1.4s infinite ease-in-out; }
+      .bar-4 { animation: wave4 1.1s infinite ease-in-out; }
+      .bar-5 { animation: wave5 1.3s infinite ease-in-out; }
+      .bar-6 { animation: wave6 0.8s infinite ease-in-out; }
+    </style>
+  </defs>
+
+  <rect width="850" height="280" rx="14" fill="url(#bg_grad_light)"/>
+  <rect width="850" height="280" rx="14" fill="url(#grid_light)"/>
+  <rect x="1" y="1" width="848" height="278" rx="13" stroke="#CBD5E1" stroke-width="1.2"/>
+
+  <!-- Window controls & telemetry chips -->
+  <circle cx="32" cy="28" r="4.5" fill="#FF5F56"/>
+  <circle cx="48" cy="28" r="4.5" fill="#FFBD2E"/>
+  <circle cx="64" cy="28" r="4.5" fill="#27C93F"/>
+  <text x="90" y="32" fill="#64748B" class="mono" font-size="11" font-weight="500">smizmaul-cockpit :: telemetry v4.5</text>
+  <rect x="710" y="18" width="108" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+  <text x="722" y="32" fill="#0D9488" class="mono" font-size="10" font-weight="600">● 1.196 COMMITS</text>
+
+  <!-- Hexagon Brand Accent -->
+  <polygon points="765,70 815,100 815,160 765,190 715,160 715,100" fill="none" stroke="#E2E8F0" stroke-width="1.5" stroke-dasharray="4 3"/>
+
+  <!-- Identity Title (Lucas Smizmaul) -->
+  <text x="32" y="80" fill="#0F172A" class="sans" font-size="28" font-weight="700" letter-spacing="-0.5">Lucas Smizmaul</text>
+
+  <!-- Animated Typing Text Lines (SMIL loop: 5s per line) -->
+  <path id="type_path_light_0">
+    <animate id="anim_l_0" attributeName="d" begin="0s;anim_l_3.end" dur="5s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.35;0.88;1" />
+  </path>
+  <text class="mono" fill="#047857" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_light_0">&gt; Full Stack Developer (Jr) • React &amp; TypeScript</textPath>
+  </text>
+
+  <path id="type_path_light_1">
+    <animate id="anim_l_1" attributeName="d" begin="anim_l_0.end" dur="5s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.35;0.88;1" />
+  </path>
+  <text class="mono" fill="#047857" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_light_1">&gt; 10+ Anos de Sustentação de Sistemas &amp; Redes</textPath>
+  </text>
+
+  <path id="type_path_light_2">
+    <animate id="anim_l_2" attributeName="d" begin="anim_l_1.end" dur="5s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.35;0.88;1" />
+  </path>
+  <text class="mono" fill="#047857" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_light_2">&gt; Pipelines em Python • Whisper, Demucs &amp; Gemini</textPath>
+  </text>
+
+  <path id="type_path_light_3">
+    <animate id="anim_l_3" attributeName="d" begin="anim_l_2.end" dur="5s" fill="freeze"
+      values="m32,108 h0 ; m32,108 h520 ; m32,108 h520 ; m32,108 h0"
+      keyTimes="0;0.35;0.88;1" />
+  </path>
+  <text class="mono" fill="#047857" font-size="14.5" font-weight="600">
+    <textPath xlink:href="#type_path_light_3">&gt; Troubleshooting em Produção &amp; Resolução RCA</textPath>
+  </text>
+
+  <!-- Narrative Context (Clean & Minimalist without repeating project names) -->
+  <text x="32" y="146" fill="#334155" class="sans" font-size="13">
+    10+ anos de experiência real em sustentação de sistemas, infraestrutura, VoIP/SIP e troubleshooting crítico.
+  </text>
+  <text x="32" y="168" fill="#475569" class="sans" font-size="13">
+    Desenvolvo soluções full stack, agentes autônomos e automações orientadas a produção.
+  </text>
+
+  <!-- Mini Pipeline Chips -->
+  <g transform="translate(32, 186)">
+    <rect x="0" y="0" width="76" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+    <text x="12" y="14" fill="#047857" class="mono" font-size="10" font-weight="600">Python</text>
+    
+    <rect x="84" y="0" width="94" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+    <text x="94" y="14" fill="#0284C7" class="mono" font-size="10" font-weight="600">TypeScript</text>
+
+    <rect x="186" y="0" width="70" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+    <text x="196" y="14" fill="#2563EB" class="mono" font-size="10" font-weight="600">Postgres</text>
+
+    <rect x="264" y="0" width="88" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+    <text x="274" y="14" fill="#EA580C" class="mono" font-size="10" font-weight="600">Cloudflare</text>
+
+    <rect x="360" y="0" width="114" height="20" rx="4" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="0.8"/>
+    <text x="368" y="14" fill="#DC2626" class="mono" font-size="10" font-weight="600">Troubleshooting</text>
+  </g>
+
+  <!-- Operational Status Bar -->
+  <rect x="32" y="218" width="390" height="30" rx="6" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="1"/>
+  <circle cx="48" cy="233" r="4.5" fill="#16A34A" class="pulse-dot"/>
+  <text x="62" y="237" fill="#15803D" class="mono" font-size="10.5" font-weight="600">STATUS: DISPONÍVEL</text>
+  <text x="195" y="237" fill="#94A3B8" class="mono" font-size="10.5">|</text>
+  <text x="208" y="237" fill="#475569" class="mono" font-size="10.5">Presencial • Híbrido • Remoto</text>
+
+  <!-- Audio Equalizer (ShortDub Reference) -->
+  <g transform="translate(680, 30)">
+    <text x="0" y="82" fill="#64748B" class="mono" font-size="10" letter-spacing="1">AUDIO / DSP SIGNAL</text>
+    <rect class="bar-1" x="0" y="146" width="6" height="24" rx="3" fill="url(#emerald_glow)"/>
+    <rect class="bar-2" x="12" y="138" width="6" height="32" rx="3" fill="url(#emerald_glow)"/>
+    <rect class="bar-3" x="24" y="114" width="6" height="56" rx="3" fill="url(#amber_grad)"/>
+    <rect class="bar-4" x="36" y="126" width="6" height="44" rx="3" fill="url(#amber_grad)"/>
+    <rect class="bar-5" x="48" y="132" width="6" height="38" rx="3" fill="url(#emerald_glow)"/>
+    <rect class="bar-6" x="60" y="152" width="6" height="18" rx="3" fill="url(#emerald_glow)"/>
+    <rect class="bar-2" x="72" y="140" width="6" height="30" rx="3" fill="url(#emerald_glow)"/>
+    <rect class="bar-4" x="84" y="120" width="6" height="50" rx="3" fill="url(#amber_grad)"/>
+    <rect class="bar-1" x="96" y="148" width="6" height="22" rx="3" fill="url(#emerald_glow)"/>
+    <text x="0" y="184" fill="#64748B" class="mono" font-size="9.5">ShortDub • 48kHz Stems</text>
+  </g>
+</svg>
