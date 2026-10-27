@@ -32,6 +32,12 @@ Profissional com mais de 10 anos em sustentação de sistemas corporativos, infr
 
 Atuo no desenvolvimento de soluções Full Stack e automações com IA (React, Next.js, Python, Cloudflare Edge e processamento audiovisual), combinando estabilidade operacional e arquitetura moderna de software.
 
+<br/>
+
+<div align="center">
+  <img alt="Developer Workspace — Pixel Art" src="./developer-workspace.svg" width="100%" />
+</div>
+
 ---
 
 ### 🚀 Projetos em Destaque
