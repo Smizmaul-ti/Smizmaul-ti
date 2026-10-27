@@ -35,7 +35,7 @@ Atuo no desenvolvimento de soluções Full Stack e automações com IA (React, N
 <br/>
 
 <div align="center">
-  <img alt="Developer Workspace — Pixel Art" src="./developer-workspace.svg" width="100%" />
+  <img alt="Estação de código neon ao pôr do sol, animada com código, testes e pipeline" src="./developer-workspace.gif" width="100%" />
 </div>
 
 ---
