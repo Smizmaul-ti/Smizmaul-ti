@@ -24,14 +24,14 @@ svg { color: #1E293B !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="163.4049440696732" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="163.4049440696732" y="0" width="131.09480167137065" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="294.49974574104385" y="0" width="69.89859442915684" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="364.39834017020075" y="0" width="49.062669944921" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="413.4610101151217" y="0" width="35.85977964983066" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="449.3207897649524" y="0" width="5.108131712023592" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="454.42892147697603" y="0" width="4.405503837991014" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.834425314967" y="0" width="1.1655746850330404" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="164.09507516090216" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="164.09507516090216" y="0" width="130.78976422478163" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="294.88483938568385" y="0" width="69.73595114740203" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="364.6207905330859" y="0" width="48.94850865574682" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="413.5692991888327" y="0" width="35.77633945632055" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="449.34563864515326" y="0" width="5.096245874946833" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="454.4418845201001" y="0" width="4.395252907942335" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.8371374280424" y="0" width="1.16286257195763" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -43,7 +43,7 @@ svg { color: #1E293B !important; }
                                 Python
                             </div>
                             <small>
-                                <div>35.52%</div>
+                                <div>35.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,7 +54,7 @@ svg { color: #1E293B !important; }
                                 TypeScript
                             </div>
                             <small>
-                                <div>15.2%</div>
+                                <div>15.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -65,7 +65,7 @@ svg { color: #1E293B !important; }
                                 CSS
                             </div>
                             <small>
-                                <div>7.8%</div>
+                                <div>7.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -89,7 +89,7 @@ svg { color: #1E293B !important; }
                                 JavaScript
                             </div>
                             <small>
-                                <div>28.5%</div>
+                                <div>28.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@ svg { color: #1E293B !important; }
                                 HTML
                             </div>
                             <small>
-                                <div>10.67%</div>
+                                <div>10.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
