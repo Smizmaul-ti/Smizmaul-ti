@@ -28,9 +28,9 @@
 
 ### 🎯 Sobre Mim
 
-Profissional com mais de 10 anos em sustentação de sistemas corporativos, infraestrutura de redes e suporte N2/N3 (B2B internacional, VoIP/SIP e troubleshooting crítico em produção).
+Profissional de Tecnologia da Informação com mais de 10 anos de experiência em sustentação de sistemas corporativos, infraestrutura de redes e suporte técnico N2/N3, incluindo operações B2B internacionais e ambientes VoIP/SIP. Experiência em diagnóstico e resolução de incidentes críticos em produção, troubleshooting avançado e análise de causa raiz (RCA).
 
-Atuo no desenvolvimento de soluções Full Stack e automações com IA (React, Next.js, Python, Cloudflare Edge e processamento audiovisual), combinando estabilidade operacional e arquitetura moderna de software.
+Atualmente, amplio minha atuação em Engenharia de Software, com foco em desenvolvimento Full Stack, integração de sistemas via APIs REST e automações com Inteligência Artificial. Trabalho com JavaScript/TypeScript, React, Next.js, Python, SQL, PostgreSQL e Cloudflare Edge, aplicando conhecimentos de infraestrutura e sustentação ao desenvolvimento de soluções web.
 
 <br/>
 
