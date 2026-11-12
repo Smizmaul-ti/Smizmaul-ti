@@ -30,7 +30,11 @@
 
 Profissional de Tecnologia da Informação com mais de 10 anos de experiência em sustentação de sistemas corporativos, infraestrutura de redes e suporte técnico N2/N3, incluindo operações B2B internacionais e ambientes VoIP/SIP. Experiência em diagnóstico e resolução de incidentes críticos em produção, troubleshooting avançado e análise de causa raiz (RCA).
 
-Atualmente, amplio minha atuação em Engenharia de Software, com foco em desenvolvimento Full Stack, integração de sistemas via APIs REST e automações com Inteligência Artificial. Trabalho com JavaScript/TypeScript, React, Next.js, Python, SQL, PostgreSQL e Cloudflare Edge, aplicando conhecimentos de infraestrutura e sustentação ao desenvolvimento de soluções web.
+Atualmente, amplio minha atuação em Engenharia de Software, com foco em desenvolvimento Full Stack, integração de sistemas via APIs REST e automações com Inteligência Artificial.
+
+**Graduando em Análise e Desenvolvimento de Sistemas — Full Stack & Mobile pela Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).**
+
+Trabalho com JavaScript/TypeScript, React, Next.js, Python, SQL, PostgreSQL e Cloudflare Edge, integrando minha experiência em infraestrutura e sustentação ao desenvolvimento de soluções web.
 
 <br/>
 
